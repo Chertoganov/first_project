@@ -9,7 +9,10 @@ conda create -n firstproject python=3.6.8
 
 conda activate firstproject
 
-3. 124124
+3. Install R and R-studio 
+
+https://rstudio.com/products/rstudio/download/
+https://cran.r-project.org/bin/windows/base/
 
 4. 122
 
