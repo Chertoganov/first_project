@@ -12,6 +12,7 @@ conda activate firstproject
 3. Install R and R-studio 
 
 https://rstudio.com/products/rstudio/download/
+
 https://cran.r-project.org/bin/windows/base/
 
 4. 122
