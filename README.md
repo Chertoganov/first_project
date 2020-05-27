@@ -19,7 +19,7 @@ https://cran.r-project.org/bin/windows/base/
 
 jupyter notebook
 
-but if you want to run program on Google Colab then open Google Colab:
+If you want to run program on Google Colab then open Google Colab:
 
 https://colab.research.google.com/
 
