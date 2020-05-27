@@ -15,7 +15,13 @@ https://rstudio.com/products/rstudio/download/
 
 https://cran.r-project.org/bin/windows/base/
 
-4. 122
+4. If you want to run program on localhost then open anaconda and run command:
+
+jupyter notebook
+
+If you want to run program on Google Colab then open Google Colab:
+
+https://colab.research.google.com/
 
 5. 12412
 
